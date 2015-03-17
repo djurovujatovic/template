@@ -1,0 +1,12 @@
+==Initialize a new repository inside your application main folder and add all the resources that were created.
+
+
+git init
+
+git add --all
+
+git commit -m "Created application"
+
+git remote add origin https://github.com/username/estuk.git
+
+git push -u origin master
